@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f3eb2bd.css",
-    "main.js": "/static/js/main.31ad4713.js",
+    "main.css": "/static/css/main.58480877.css",
+    "main.js": "/static/js/main.bbe7abe8.js",
     "static/media/Gilroy-Light.ttf": "/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
     "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
     "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
     "index.html": "/index.html",
-    "main.4f3eb2bd.css.map": "/static/css/main.4f3eb2bd.css.map",
-    "main.31ad4713.js.map": "/static/js/main.31ad4713.js.map"
+    "main.58480877.css.map": "/static/css/main.58480877.css.map",
+    "main.bbe7abe8.js.map": "/static/js/main.bbe7abe8.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f3eb2bd.css",
-    "static/js/main.31ad4713.js"
+    "static/css/main.58480877.css",
+    "static/js/main.bbe7abe8.js"
   ]
 }
